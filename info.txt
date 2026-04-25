@@ -1,0 +1,4 @@
+I am currently working at Capgemini in 5G RAN
+My Daily role includes analyzing thp fluctuation, dips, low latency issues, verifying and identifying the performance bottlenecks and areas for optimization.
+Conduted feature release testing , meticulously documenting and tracking bugs using JIRA.
+Utilized TM500 for executing various scenarios, facilitating faster resolution and minimizing downtime.
